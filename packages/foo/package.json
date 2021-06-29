@@ -1,0 +1,14 @@
+{
+  "name": "@scope/foo",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "dependencies": {
+    "@vueuse/core": "^5.0.3"
+  },
+  "devDependencies": {
+    "windicss": "*"
+  }
+}
